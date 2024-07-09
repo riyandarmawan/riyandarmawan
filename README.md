@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @riyandarmawan
 - 👀 I’m interested in Programming, Technology, and even Languages
 - 🌱 I’m currently learning ReactJs and Laravel
-- 💞️ I’m looking to collaborate on Web Developor
+- 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me 
   - [Instagram](https://instagram.com/riyandarmawan)
   - [YouTube](https://youtube.com/@riyandarmawan)
