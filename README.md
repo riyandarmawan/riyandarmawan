@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ReactJs and Laravel
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me
-  - [LinkedIn](https://likedin.com/in/riyandarmawan)
+  - [LinkedIn](https://linkedin.com/in/riyandarmawan)
   - [Instagram](https://instagram.com/riyandarmawan)
   - [YouTube](https://youtube.com/@riyandarmawan)
 
