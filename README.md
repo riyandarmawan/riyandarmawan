@@ -2,7 +2,8 @@
 - 👀 I’m interested in Programming, Technology, and even Languages
 - 🌱 I’m currently learning ReactJs and Laravel
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me 
+- 📫 How to reach me
+  - [LinkedIn](https://likedin.com/in/riyandarmawan)
   - [Instagram](https://instagram.com/riyandarmawan)
   - [YouTube](https://youtube.com/@riyandarmawan)
 
