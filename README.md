@@ -1,4 +1,7 @@
-# 💫 About Me:
+<!-- Github Header -->
+![Header](./img/github-header.png)
+
+<!-- About me -->
 A Fullstack Developer based in Indonesia
 
 
