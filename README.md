@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Riyan from Indonesia<br><br>- 🔭 I’m working as a Fullstack Developer<br>- 📚 I'm currently learning NestJS<br>- ⚡ In my free time I'm coding</p>
+<p align="left">I'm Riyan from Indonesia<br><br>- 🔭 I’m working as a Fullstack Developer<br>- 📚 I'm currently learning NestJS<br>- ⚡ In my free time I'm coding<br>- 💻 I use arch btw</p>
 
 ###
 
